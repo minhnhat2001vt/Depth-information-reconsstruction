@@ -1,1 +1,2 @@
 # Depth-information-reconsstruction
+The goal of this project is to perform depth reconstruction using stereo images. This involves processing stereo image pairs (left and right images), calculating disparities between these images, and converting these disparities into depth information. This is done by implementing and comparing two methods in stereo matching: pixel-wise matching and window-based matching.
